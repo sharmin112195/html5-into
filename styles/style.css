@@ -1,0 +1,13 @@
+nav >ul > li{
+    display: inline;
+    margin-right: 20px;
+}
+
+nav li> a{
+text-decoration: none;
+}
+nav li:hover > .dropdown{
+   background-color:bisque;
+   display: block;
+}
+
